@@ -1,0 +1,35 @@
+
+const Ingredients = [
+    {name: "Flour", unit: ["Cups", "grams", "ounces"]},
+    {name: "Sugar", unit: ["Cups", "grams", "ounces"]},
+    {name: "Salt", unit: ["Teaspoons", "grams", "ounces"]},
+    {name: "Butter", unit: ["Tablespoons", "grams", "ounces"]},
+    {name: "Milk", unit: ["Cups", "milliliters"]},
+    {name: "Eggs", unit: ["Number"]},
+    {name: "Baking Powder", unit: ["Teaspoons", "grams", "ounces"]},
+    {name: "Vanilla Extract", unit: ["Teaspoons", "milliliters"]},
+    {name: "Olive Oil", unit: ["Tablespoons", "milliliters"]},
+    {name: "Honey", unit: ["Tablespoons", "grams", "ounces"]},
+    {name: "Onions", unit: ["Number", "cups (chopped)", "grams", "ounces"]},
+    {name: "Garlic", unit: ["Cloves", "grams", "ounces"]},
+    {name: "Ground Beef", unit: ["Pounds", "grams", "ounces"]},
+    {name: "Rice", unit: ["Cups", "grams", "ounces"]},
+    {name: "Pasta", unit: ["Ounces", "grams"]},
+    {name: "Tomatoes (canned or fresh)", unit: ["Cups", "grams", "ounces"]},
+    {name: "Cheese (shredded)", unit: ["Cups", "grams", "ounces"]},
+    {name: "Chicken Breasts", unit: ["Pounds", "grams", "ounces"]},
+    {name: "Lemon Juice", unit: ["Tablespoons", "milliliters"]},
+    {name: "Vegetable Broth", unit: ["Cups", "milliliters"]},
+    {name: "Chicken Broth", unit: ["Cups", "milliliters"]},
+    {name: "Beef Broth", unit: ["Cups", "milliliters"]},
+    {name: "Walnuts", unit: ["Cups", "grams", "ounces"]},
+    {name: "Almonds", unit: ["Cups", "grams", "ounces"]},
+    {name: "Parsley", unit: ["Tablespoons (chopped)", "grams", "ounces"]},
+    {name: "Basil", unit: ["Tablespoons (chopped)", "grams", "ounces"]},
+    {name: "Yogurt", unit: ["Cups", "grams", "ounces"]},
+    {name: "Cocoa Powder", unit: ["Tablespoons", "grams", "ounces"]},
+    {name: "Chocolate Chips", unit: ["Cups", "grams", "ounces"]},
+    {name: "Lettuce (salad greens)", unit: ["Cups", "grams", "ounces"]}
+  ]
+
+export default Ingredients
